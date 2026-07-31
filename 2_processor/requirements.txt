@@ -1,0 +1,7 @@
+supabase
+python-dotenv
+pandas
+pyarrow       # parquet 읽기용\
+torch
+transformers
+scikit-learn

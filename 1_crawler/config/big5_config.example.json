@@ -1,0 +1,12 @@
+{
+  "_comment": "실제 운영 설정은 대상 병원 웹사이트의 이용약관 보호를 위해 비공개 처리했습니다. 아래는 config 스키마를 보여주기 위한 예시(placeholder)입니다 — 실제 URL/셀렉터가 아닙니다.",
+  "example_hospital": {
+    "display_name": "예시병원",
+    "url": "https://example-hospital.example.com/non-reimbursable/list",
+    "tab_selector": "#content .tab-menu a",
+    "table_selector": "#content .price-table",
+    "row_selector": "#content .price-table tbody tr",
+    "next_button_selector": "a.pagination-next",
+    "page_number_selector": ".pagination a:not(.pagination-next)"
+  }
+}

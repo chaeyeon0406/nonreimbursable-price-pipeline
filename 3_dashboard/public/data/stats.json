@@ -1,0 +1,23 @@
+{
+  "total_items": 16452,
+  "total_clusters": 3384,
+  "multi_hospital_clusters": 1963,
+  "pending_review": 1745,
+  "by_top_category": {
+    "행위": 7250,
+    "치료재료": 6166,
+    "약제": 2705,
+    "제증명수수료": 331
+  },
+  "by_match_method": {
+    "코드매칭": 7257,
+    "AI클러스터링": 9195
+  },
+  "by_hospital": {
+    "서울대": 2097,
+    "삼성": 2177,
+    "세브란스": 6395,
+    "아산": 2691,
+    "서울성모": 3092
+  }
+}

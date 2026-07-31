@@ -1,0 +1,414 @@
+{
+  "약제": {
+    "기타": {
+      "cluster_count": 619,
+      "item_count": 2710
+    }
+  },
+  "행위": {
+    "기타": {
+      "cluster_count": 139,
+      "item_count": 351
+    },
+    "검사료": {
+      "cluster_count": 313,
+      "item_count": 1316
+    },
+    "상급병실료(차액)": {
+      "cluster_count": 7,
+      "item_count": 43
+    },
+    "기본진료료": {
+      "cluster_count": 41,
+      "item_count": 168
+    },
+    "치과 처치 및 수술료": {
+      "cluster_count": 219,
+      "item_count": 536
+    },
+    "초음파 검사료": {
+      "cluster_count": 150,
+      "item_count": 877
+    },
+    "자기공명영상진단료(MRI)": {
+      "cluster_count": 161,
+      "item_count": 1416
+    },
+    "영상진단 및 방사선 치료료": {
+      "cluster_count": 21,
+      "item_count": 45
+    },
+    "주사료": {
+      "cluster_count": 5,
+      "item_count": 16
+    },
+    "마취료": {
+      "cluster_count": 4,
+      "item_count": 11
+    },
+    "처치 및 수술료": {
+      "cluster_count": 332,
+      "item_count": 1560
+    },
+    "이학요법료(물리치료료)": {
+      "cluster_count": 102,
+      "item_count": 684
+    },
+    "정신요법료": {
+      "cluster_count": 12,
+      "item_count": 47
+    },
+    "치과의 보철료": {
+      "cluster_count": 44,
+      "item_count": 91
+    },
+    "양전자단층촬영료(PET)": {
+      "cluster_count": 7,
+      "item_count": 17
+    },
+    "입원환자 식대": {
+      "cluster_count": 10,
+      "item_count": 18
+    },
+    "치과의 교정치료료": {
+      "cluster_count": 39,
+      "item_count": 54
+    }
+  },
+  "치료재료": {
+    "기타": {
+      "cluster_count": 560,
+      "item_count": 4031
+    },
+    "내시경적 식도 또는 위 정맥류 치료용/(비흡수성)색전물질": {
+      "cluster_count": 1,
+      "item_count": 5
+    },
+    "골수 내 하지길이 자성조절 연장술용": {
+      "cluster_count": 3,
+      "item_count": 9
+    },
+    "인체조직유래 2차 가공뼈": {
+      "cluster_count": 6,
+      "item_count": 10
+    },
+    "재조합골형성단백질(RHBMP-2) 함유 골이식재": {
+      "cluster_count": 1,
+      "item_count": 9
+    },
+    "보조기": {
+      "cluster_count": 16,
+      "item_count": 41
+    },
+    "압박고정용 치료재료": {
+      "cluster_count": 19,
+      "item_count": 46
+    },
+    "CABLE SYSTEM": {
+      "cluster_count": 2,
+      "item_count": 3
+    },
+    "흡수성 PLATE 고정용 SCREW": {
+      "cluster_count": 3,
+      "item_count": 6
+    },
+    "CRANIOFACIAL IMPLANTS": {
+      "cluster_count": 9,
+      "item_count": 36
+    },
+    "정형용품 IMPLANTS(3D 프린터 이용, 환자 맞춤형)": {
+      "cluster_count": 4,
+      "item_count": 13
+    },
+    "로봇보조 인공관절 치환술용 절삭기": {
+      "cluster_count": 1,
+      "item_count": 3
+    },
+    "기타 관절치환용 재료": {
+      "cluster_count": 4,
+      "item_count": 10
+    },
+    "척추경막외 유착방지제": {
+      "cluster_count": 5,
+      "item_count": 27
+    },
+    "추간판내 고주파 열치료술": {
+      "cluster_count": 6,
+      "item_count": 11
+    },
+    "조절성 인공수정체 (ACCOMMODATIVE IOL)": {
+      "cluster_count": 17,
+      "item_count": 61
+    },
+    "각막교차결합술용": {
+      "cluster_count": 1,
+      "item_count": 4
+    },
+    "정맥류제거용": {
+      "cluster_count": 2,
+      "item_count": 3
+    },
+    "시아노아크릴레이트를 이용한 복재정맥 폐색술용": {
+      "cluster_count": 1,
+      "item_count": 6
+    },
+    "경피적 기계화학 정맥폐색술용": {
+      "cluster_count": 2,
+      "item_count": 6
+    },
+    "혈관내영상카테타": {
+      "cluster_count": 6,
+      "item_count": 22
+    },
+    "관상동맥내 광학파 단층촬영용": {
+      "cluster_count": 1,
+      "item_count": 4
+    },
+    "갑상선 양성결절의 고주파 열치료용": {
+      "cluster_count": 5,
+      "item_count": 13
+    },
+    "풍선확장 경막외강 유착박리술용": {
+      "cluster_count": 5,
+      "item_count": 14
+    },
+    "경막외강 신경박리술 및 감압 신경성형술용": {
+      "cluster_count": 7,
+      "item_count": 13
+    },
+    "경막외강 신경박리술용": {
+      "cluster_count": 2,
+      "item_count": 3
+    },
+    "내시경적 경막외강 신경근성형술용": {
+      "cluster_count": 5,
+      "item_count": 8
+    },
+    "풍선카테터 부비동/이관 성형술용": {
+      "cluster_count": 4,
+      "item_count": 10
+    },
+    "근골격계 종양의 고주파 열치료용": {
+      "cluster_count": 3,
+      "item_count": 4
+    },
+    "변배출 밀폐시스템": {
+      "cluster_count": 3,
+      "item_count": 5
+    },
+    "수증기를 이용한 경요도 전립선 절제술용": {
+      "cluster_count": 1,
+      "item_count": 2
+    },
+    "자착성(탄력)붕대": {
+      "cluster_count": 4,
+      "item_count": 13
+    },
+    "피부보호제": {
+      "cluster_count": 35,
+      "item_count": 108
+    },
+    "OSTOMY용 ACCESSORY": {
+      "cluster_count": 15,
+      "item_count": 48
+    },
+    "폴리믹신B 고정화섬유를 이용한 혈액관류요법용": {
+      "cluster_count": 2,
+      "item_count": 10
+    },
+    "치과교정용 PLATE & 고정장치": {
+      "cluster_count": 6,
+      "item_count": 17
+    },
+    "치과임플란트 고정체-SANDBLASTED LARGE GRIT ACID ETCHING처리(SLA)": {
+      "cluster_count": 6,
+      "item_count": 14
+    },
+    "치과임플란트 지대주": {
+      "cluster_count": 6,
+      "item_count": 20
+    },
+    "전신마취 중 ANI 감시용": {
+      "cluster_count": 1,
+      "item_count": 5
+    },
+    "내시경 초음파를 이용한 세침흡인술용, 경벽배액술용": {
+      "cluster_count": 10,
+      "item_count": 38
+    },
+    "유방 생검용": {
+      "cluster_count": 2,
+      "item_count": 8
+    },
+    "기관지내시경초음파 가이드시스 KIT": {
+      "cluster_count": 4,
+      "item_count": 11
+    },
+    "연속혈당측정용전극": {
+      "cluster_count": 4,
+      "item_count": 12
+    },
+    "상처고정 및 보호용(카테터 고정용 제외)": {
+      "cluster_count": 9,
+      "item_count": 23
+    },
+    "전립선 결찰술용 이식형 결찰사": {
+      "cluster_count": 3,
+      "item_count": 4
+    },
+    "연조직 재건용": {
+      "cluster_count": 13,
+      "item_count": 65
+    },
+    "대퇴과 연골손상에 대한 미세골절술용": {
+      "cluster_count": 2,
+      "item_count": 5
+    },
+    "주름개선용 임플란트": {
+      "cluster_count": 4,
+      "item_count": 9
+    },
+    "필름 드레싱류": {
+      "cluster_count": 1,
+      "item_count": 7
+    },
+    "흉터관리재료": {
+      "cluster_count": 27,
+      "item_count": 85
+    },
+    "드레싱 고정류": {
+      "cluster_count": 22,
+      "item_count": 70
+    },
+    "방광내 점적주입 재료": {
+      "cluster_count": 2,
+      "item_count": 7
+    },
+    "척추전용형 동종골(MACHINED ALLOGRAFT BONE SPACER)": {
+      "cluster_count": 3,
+      "item_count": 8
+    },
+    "동종진피": {
+      "cluster_count": 119,
+      "item_count": 1035
+    },
+    "비침습적 지혈용": {
+      "cluster_count": 27,
+      "item_count": 59
+    },
+    "IV IN LINE FILTER(5㎛)": {
+      "cluster_count": 3,
+      "item_count": 5
+    },
+    "고압용필터(조영제용)": {
+      "cluster_count": 2,
+      "item_count": 3
+    },
+    "경성콘텍트렌즈시술용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "경피적 대동맥판 삽입용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "고주파 정맥내막폐쇄요법용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "구강내 장치": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "굴절교정렌즈": {
+      "cluster_count": 2,
+      "item_count": 2
+    },
+    "기타근관충전재(MTA)": {
+      "cluster_count": 2,
+      "item_count": 2
+    },
+    "단일 융모막성 다태임신에 실시하는 고주파 열응고를 이용한 제대 폐색술용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "말초신경자극술용 치료재료": {
+      "cluster_count": 3,
+      "item_count": 4
+    },
+    "발톱고정용 재료": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "변연절제술용 절삭기": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "분리형 니들필터": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "연구개 이식물 삽입술용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "인레이.온레이용 임시 충전재": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "일시적피부대체드레싱류": {
+      "cluster_count": 2,
+      "item_count": 2
+    },
+    "일체형 니들필터 / 기타형 필터": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "자가 혈소판 풍부 혈장 안약치료술용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "자동광반출술용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "전기 임피던스 단층영상술용 SENSOR": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "중증 하지 허혈성질환에서 자가 골수줄기 세포 치료술용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "척추고정용": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "치과교정용 상악악궁 확장장치": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "치수복조 및 기타근관충전재(MTA)": {
+      "cluster_count": 1,
+      "item_count": 1
+    },
+    "콜라겐함유 창상치유촉진드레싱류": {
+      "cluster_count": 3,
+      "item_count": 3
+    },
+    "흡수성 CRANIOFACIAL IMPLANTS(3D 프린터 이용, 환자 맞춤형)": {
+      "cluster_count": 2,
+      "item_count": 2
+    },
+    "흡수성 MESH PLATE": {
+      "cluster_count": 1,
+      "item_count": 1
+    }
+  },
+  "제증명수수료": {
+    "기타": {
+      "cluster_count": 89,
+      "item_count": 331
+    }
+  }
+}
